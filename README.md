@@ -12,6 +12,6 @@
 
 <div align='center'>
 
-![Second](./src/assets/recordingB.gif)
+![Second](./src/assets/RecordingB.gif)
 
 </div>
